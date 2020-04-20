@@ -2,6 +2,13 @@
 
 import setuptools
 
+#############################################
+# File Name: setup.py
+# Author: CzKerwin
+# Mail: czksnk@woodcol.com
+# Created Time:  2020-4-12 18:27:16
+#############################################
+
 setuptools.setup(
     name="uutils",
     version="0.0.3",
